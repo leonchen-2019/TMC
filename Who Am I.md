@@ -14,3 +14,9 @@ __In__ life , I’m not very extroverted, and also not introverted, maybe just b
 
 ## 4
 __OK__, this is me ‘Leon’. Maybe now you can know who I am , and why I stand here. Hope we can make progress together.
+
+function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
