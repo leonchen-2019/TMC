@@ -1,2 +1,2 @@
 # TMC
-This is a blog where record my speech script in TMC.
+This is a project which records my speech script in TMC.
