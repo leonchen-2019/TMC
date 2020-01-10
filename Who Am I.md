@@ -1,7 +1,8 @@
 # Who am I?
 
 ## 1
-```**Hello**, Everyone, this time my speech topic is 'Who I am'. My name is Leon, First I want tell you 
+```**Hello**
+, Everyone, this time my speech topic is 'Who I am'. My name is Leon, First I want tell you 
 why I choose "Leon" as my English name. This name came from a movie named 'LEON'. I guess most of us know its Chinese name.,and its Chinese name  is "This Killer is not too cold". It is a love story as well as a action movie. Leon in the movie is a professional killer. In his life , his only job is finish the task the boss assign to him. But after he met the main actress, he found life is more beautiful than before, and at last leon sacrificed himself for the actress. when I saw the movie ,I was deeply affected by leon. He can do anything for love even lose his life. He was a real man. 
 Another reason I choose Leon, because my Chinese name is Liang, it sounds like 'Leon'. So , English name or chinese name , no matter which one you call me, they sounds the same.
 So these two points, I choose Leon as my English name.
@@ -15,8 +16,3 @@ __In__ life , I’m not very extroverted, and also not introverted, maybe just b
 ## 4
 __OK__, this is me ‘Leon’. Maybe now you can know who I am , and why I stand here. Hope we can make progress together.
 
-function fancyAlert(arg) {
-      if(arg) {
-        $.facebox({div:'#foo'})
-      }
-    }
